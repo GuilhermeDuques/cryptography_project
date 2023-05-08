@@ -1,0 +1,14 @@
+<paths>
+    <files-path name="causos_fotos" path="."/>
+</paths>
+
+    <!--    Passo 02: Crie res/xml/files.xml-->
+    <!--    path é onde serão armazenados os arquivos-->
+    <!--    O nome crime_photos é usado apenas pelo FileProvider-->
+
+    <!--Faça a ancoragem no manifesto agora-->
+    <!--coloque dentro da tag <provider>:-->
+
+    <!--<meta-data-->
+    <!--android:name="android.support.FILE_PROVIDER_PATHS"-->
+    <!--android:resource="@xml/files"/>-->

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "696528165932",
+    "project_id": "at-seguranca-640e0",
+    "storage_bucket": "at-seguranca-640e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696528165932:android:926dd4ef78d4a3630dc589",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.at_anotacoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696528165932-qfkctmr2ors2vmm9am753nc2gj6btd85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yz0qezPLb3w-E_ddG19Md2eNO91DMCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696528165932-qfkctmr2ors2vmm9am753nc2gj6btd85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696528165932:android:b3f5a5e29a8591030dc589",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.at_seguranca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696528165932-qfkctmr2ors2vmm9am753nc2gj6btd85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yz0qezPLb3w-E_ddG19Md2eNO91DMCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696528165932-qfkctmr2ors2vmm9am753nc2gj6btd85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

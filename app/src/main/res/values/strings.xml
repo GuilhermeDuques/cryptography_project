@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AT-Anotacoes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="permission_camera_required">Precisamos do seu rostinho pra saber se você é você mesmo.</string>
+    <string name="ok">jae</string>
+    <string name="permission_location_required">Precisamos saber se você está aqui mesmo.</string>
+    <string name="permission_camera_location_required">Precisamos da sua foto e da sua localização.</string>
+</resources>
